@@ -1,0 +1,53 @@
+_repo: The-grandfathers-war_70610
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Van Dongen, H. R.
+    aliases:
+    - Van Dongen, Henry Richard
+    - Dongen, H. R. Van
+    - Dongen, van
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+    wikipedia: https://en.wikipedia.org/wiki/H._R._Van_Dongen
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    - Fitzgerald, William
+    - Jenkins, Will F.
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: https://en.wikipedia.org/wiki/Murray_Leinster
+description: ''
+gutenberg_issued: '2023-04-21'
+identifiers:
+  gutenberg: '70610'
+language: en
+pgterms:marc905: 20221202111326leinster
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStreet & Smith Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Med Service
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Conflict of generations -- Fiction'
+- !lcsh 'Space colonies -- Fiction'
+- !lcsh 'Space medicine -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The grandfathers' war
+url: http://www.gutenberg.org/ebooks/70610
