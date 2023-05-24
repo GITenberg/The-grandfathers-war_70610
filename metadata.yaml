@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '26301'
     url: http://www.gutenberg.org/2009/agents/26301
     wikipedia: https://en.wikipedia.org/wiki/H._R._Van_Dongen
+covers:
+- cover_type: archival
+  image_path: 70610-h/images/cover.jpg
 creator:
   author:
     agent_name: Leinster, Murray
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7321
     wikipedia: https://en.wikipedia.org/wiki/Murray_Leinster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70610#The-grandfathers-war
 gutenberg_issued: '2023-04-21'
 identifiers:
   gutenberg: '70610'
